@@ -6,3 +6,9 @@ Invoice management
 (4)Import project (I Used Spring tool suite)
 (5)Perform maven install
 (6)Run Application
+
+Steps for adding data :- 
+(7)Create ADMIN User
+(8)Create Normal User
+(9)Create Items
+(10)Create Invoices based on quantity and itemId
